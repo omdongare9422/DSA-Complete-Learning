@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/omdongare9422/DSA-Complete-Learning/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/omdongare9422/DSA-Complete-Learning/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/omdongare9422/DSA-Complete-Learning/tree/master/0075-sort-colors) |
 ## Matrix
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/omdongare9422/DSA-Complete-Learning/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/omdongare9422/DSA-Complete-Learning/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/omdongare9422/DSA-Complete-Learning/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/omdongare9422/DSA-Complete-Learning/tree/master/0633-sum-of-square-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/omdongare9422/DSA-Complete-Learning/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
