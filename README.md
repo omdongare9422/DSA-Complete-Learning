@@ -18,8 +18,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/omdongare9422/DSA-Complete-Learning/tree/master/0027-remove-element) |
+| [0633-sum-of-square-numbers](https://github.com/omdongare9422/DSA-Complete-Learning/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
 | [3110-score-of-a-string](https://github.com/omdongare9422/DSA-Complete-Learning/tree/master/3110-score-of-a-string) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/omdongare9422/DSA-Complete-Learning/tree/master/0633-sum-of-square-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/omdongare9422/DSA-Complete-Learning/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
