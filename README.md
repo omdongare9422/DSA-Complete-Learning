@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/omdongare9422/DSA-Complete-Learning/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/omdongare9422/DSA-Complete-Learning/tree/master/0054-spiral-matrix) |
 ## Matrix
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/omdongare9422/DSA-Complete-Learning/tree/master/0054-spiral-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/omdongare9422/DSA-Complete-Learning/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
